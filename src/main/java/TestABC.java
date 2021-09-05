@@ -6,7 +6,8 @@ import java.util.concurrent.locks.ReentrantLock;
 public class TestABC {
 
 	public static void main(String[] args) { 
-		
+
+		System.out.println("eeeeeeeeelizhiwei ");
 		Executor ss ; 
 	}
 
